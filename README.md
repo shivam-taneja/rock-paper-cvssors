@@ -22,10 +22,6 @@ RockPaperCVssors/
 ├── detector.py      # hand detection and gesture mapping
 ├── ai.py            # AI logic for all three difficulty modes
 ├── game.py          # scoring and win/loss/draw logic
-├── assets/
-│   ├── rock.png
-│   ├── paper.png
-│   └── scissors.png
 └── requirements.txt
 ```
 
